@@ -1,4 +1,4 @@
-# DownSide-IW7
+# DownSide IW7
 
 ## Requirements
 
@@ -12,3 +12,21 @@
 2. Go To Folder Containing IW7
 3. Go to `iw_game_files\iw7-mod` → customscripts Folder In
 4. Launch IW7 and start a zombies game.
+
+## Controls
+
+| Action | Controller Bind |
+|---|---|
+| Open Menu | Hold ADS + Melee |
+| Scroll Up | ADS |
+| Scroll Down | Fire |
+| Select | Use |
+| Back / Close | Melee |
+| Value Up | E |
+| Value Down | G |
+
+## Help With Future Development of Projects → https://cash.app/$iUser0000
+
+## Credits
+
+- UserDarkCloud
