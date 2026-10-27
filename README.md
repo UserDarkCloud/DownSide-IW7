@@ -1,5 +1,4 @@
 # DownSide IW7
-IW7
 
 ## Requirements
 
