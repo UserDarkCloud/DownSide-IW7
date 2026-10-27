@@ -1,4 +1,4 @@
-# DownSide IW7
+# IW7 Mod
 
 ## Requirements
 
